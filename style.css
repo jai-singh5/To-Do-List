@@ -17,9 +17,10 @@ body {
     background: #3e1212;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px #e36b6b;
+    box-shadow: 0 0 25px #e36b6b;
     width: 1000px;
     height: 800px;
+    margin-top: 30px;
 }
 h1 {
     text-align: center;
