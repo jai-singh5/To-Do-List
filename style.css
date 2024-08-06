@@ -46,15 +46,15 @@ button {
     border: none;
     background-color: #aa6be4;
     color: #fff;
-    border-radius: 4px;
+    border-radius: 8px;
     cursor: pointer;
-    font-size: 13px;
+    font-size: 18px;
     font-weight: 800;
 }
 button:hover {
     background-color: white;
     color: #aa6be3;
-    font-size: 15px;
+    font-size: 20px;
 }
 ul {
     list-style-type: none;
@@ -90,9 +90,10 @@ li {
     background-color: #f9f9f9;
     border-radius: 4px;
     margin-bottom: 10px;
+    font-size: 20px;
 }
 
-.edit-btn, .delete-btn {
+.edit-btn, .delete-btn{
     background: #aa6be4;
     color: #fff;
     border: none;
@@ -100,14 +101,17 @@ li {
     border-radius: 4px;
     cursor: pointer;
     margin-left: 5px;
+    font-size: 18px;
 }
 
 .edit-btn:hover {
     background: #0056b3;
     color: #fff;
+    font-size: 19px;
 }
 
 .delete-btn:hover {
     background: #c82333;
     color: #000000;
+    font-size: 19px;
 }
